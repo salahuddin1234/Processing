@@ -1,0 +1,3 @@
+# A Clock in processing 
+
+I wrote this program in my first semester.

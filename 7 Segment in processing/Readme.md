@@ -1,0 +1,1 @@
+# A seven segment display which is used every where from lift to clocks. It was an object orineted programming learning assignment.
